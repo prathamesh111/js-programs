@@ -1,1 +1,3 @@
-testing file inside prat/testing
+function test(test){
+    
+}
